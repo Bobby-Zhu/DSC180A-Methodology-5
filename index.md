@@ -19,7 +19,7 @@ I want to investigate more if we can come up with a sepsis index for patients, w
 
 ### **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-I don't have much change to make for the current project since we are replicating a paper on sepsis. If there is anything I want to change, I would try different library of latent class classification, since the performance of poLCA model is pretty low.
+I don't have much change to make for the current project since we are replicating a paper on sepsis. If there is anything I want to change, I would try different library of latent class classification, since the performance of poLCA model is pretty
 
 ---
 
