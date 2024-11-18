@@ -1,18 +1,28 @@
-Name: Bobby Zhu
-Email: b2zhu@ucsd.edu
-Section: A02
-Mentor: Kyle Shannon
+# Name: Bobby Zhu
+**Email**: b2zhu@ucsd.edu  
+**Section**: A02  
+**Mentor**: Kyle Shannon  
 
-What is the most interesting topic covered in your domain this quarter?
+---
 
-The most interesting part is talking with a senior nurse (domain expert) who discuss a lot of details of UCSD hosptial proctoal on treating a sepsis patients, and we brainstorm together to figure out if there is any point in this process can be optimzed. In other word, knowing the real world healthcare scenario is the most interesting part. 
+### **What is the most interesting topic covered in your domain this quarter?**
 
-Describe a potential investigation you would like to pursue for your Quarter 2 Project.
-I want to investigate more if we can come up with a sepsis index for patients which can remind healthcare workers which patients would need more attention, since early detection is the key in the treatement of Sepsis
+The most interesting part is talking with a senior nurse (domain expert) who discussed a lot of details of UCSD hospital protocol on treating sepsis patients. We brainstormed together to figure out if there is any point in this process that can be optimized. In other words, knowing the real-world healthcare scenario is the most interesting part.
 
-What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
-I don't have much change to make for current project, since we are replicating a paper on sepsis. 
+---
 
-What other techniques would you be interested in using in your project?
+### **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-I am interseting building both frontend and backend using code to display our product. 
+I want to investigate more if we can come up with a sepsis index for patients, which can remind healthcare workers which patients would need more attention, since early detection is the key in the treatment of sepsis.
+
+---
+
+### **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
+
+I don't have much change to make for the current project since we are replicating a paper on sepsis. If there is anything I want to change, I would try different library of latent class classification, since the performance of poLCA model is pretty low.
+
+---
+
+### **What other techniques would you be interested in using in your project?**
+
+I am interested in building both the frontend and backend using code to display our product. For example, susing React Native and PHP.
